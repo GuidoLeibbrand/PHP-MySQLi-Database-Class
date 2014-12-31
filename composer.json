@@ -1,0 +1,17 @@
+{
+    "name": "joshcam/PHP-MySQLi-Database-Class",
+    "type": "library",
+    "description": "Wrapper for a PHP MySQL class, which utilizes MySQLi and prepared statements.",
+    "keywords": ["mysql","wrapper","php"],
+    "homepage": "https://github.com/joshcam/PHP-MySQLi-Database-Class",
+    "license": "GNU GPL LICENSE",
+    "authors": [
+        {
+            "name": "Josh Campbell",
+            "email": "josh.lee.campbell@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
